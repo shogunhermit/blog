@@ -31,7 +31,8 @@ This is a simple Blog Post Service built with Spring Boot that allows users to c
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/blogpost-service.git
+git clone git clone https://github.com/shogunhermit/blogpost-service.git
+
 cd blogpost-service
 ````
 
