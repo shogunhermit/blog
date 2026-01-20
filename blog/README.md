@@ -75,7 +75,7 @@ By default, the project uses H2 in-memory database. To switch to MySQL, update `
 ```properties
 spring.datasource.url=jdbc:mysql://localhost:3306/blog_db
 spring.datasource.username=root
-spring.datasource.password=yourpassword
+spring.datasource.password="yourpassword"
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 ```
